@@ -1,1 +1,16 @@
-Hello Git and GitHub
+Make sure the markdown file always includes the following elements:
+
+Titles and internal titles
+Introduction - the project's aim
+Technologies
+Launch
+
+Consider also using additional elements such as: 
+
+Table of contents
+Illustrations
+Scope of functionalities 
+Examples of use
+Project status 
+Sources
+Other information
