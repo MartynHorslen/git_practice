@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
+* [Features](#current-features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -30,7 +30,7 @@
 - Tech 3 - version 3.0
 
 
-## Features
+## Current Features
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
